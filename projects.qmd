@@ -1,0 +1,79 @@
+---
+title: "Projects"
+---
+
+## Academic Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.project-card}
+### [Assignment title]
+
+**AD688, Boston University**
+
+Utilized AWS to conduct large data analysis across multiple datasets, leveraging various AWS services to process and analyze the data efficiently 
+  
+[Python]{.skill} [AWS]{.skill} [Add the services you used]{.skill}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.project-card}
+### [Second assignment title]
+
+**AD688, Boston University**
+
+[Same format. Delete this whole card if you only have one.]
+
+[Python]{.skill} [AWS]{.skill}
+:::
+:::
+
+:::
+
+## Professional Work
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.project-card}
+### Jumpstart Analytics
+
+Lead an org-wide quarterly analytics deck, plus ad-hoc data and research decks used across Technology, Marketing, Customer Experience, Digital Strategy, Product, Demand Generation, Data & Analytics, and Security & Risk.
+
+[Excel]{.skill} [Tableau]{.skill} [Power BI]{.skill} [Qualtrics]{.skill}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.project-card}
+### GenAI Research Models
+
+Create GenAI research models and deliver client recommendations on AI prioritization, budgets, competitive markets, requirements, and compliance.
+
+[GenAI]{.skill} [Research]{.skill} [Strategy]{.skill}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.project-card}
+### Executive Technology Roadmaps
+
+Manage a rotating team of four Research Associates and build analyses, dashboards, and reports for CTO, CIO, CPO, CISO, and CEO audiences.
+
+[Dashboards]{.skill} [Executive reporting]{.skill}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.project-card}
+### Post-Pandemic Engagement Research
+
+Led a Provost-selected, university-wide study of student, faculty, and administration engagement and financial impact after the pandemic.
+
+[Survey design]{.skill} [Data analysis]{.skill}
+:::
+:::
+
+:::

@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Ben Nagle"
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - text: About You
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/benjamin-nagle-ab6b71152/
+      - icon: github
+        href: https://github.com/bnagl01
+  page-footer:
+    center: "© 2026 Benjamin Nagle · Built with Quarto"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css

@@ -1,0 +1,52 @@
+---
+title: "Benjamin Nagle"
+about:
+  template: jolla
+  image: profile.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/benjamin-nagle-ab6b71152/
+    - icon: github
+      text: GitHub
+      href: https://github.com/bnagl01
+---
+
+I'm a graduate student in Applied Business Analytics at Boston University, focused on
+big data, cloud analytics, and machine learning.
+
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-3}
+::: {.stat}
+[7+]{.num} [Years of experience]{.label}
+:::
+:::
+
+::: {.g-col-6 .g-col-md-3}
+::: {.stat}
+[20+]{.num} [Enterprise reports per year]{.label}
+:::
+:::
+
+::: {.g-col-6 .g-col-md-3}
+::: {.stat}
+[4]{.num} [Research Associates led]{.label}
+:::
+:::
+
+::: {.g-col-6 .g-col-md-3}
+::: {.stat}
+[2027]{.num} [M.S. at Boston University]{.label}
+:::
+:::
+
+:::
+
+## Interests
+
+[Spark ML]{.skill} [Cloud platforms]{.skill} [Data engineering]{.skill} [Data management]{.skill} [Machine learning]{.skill}
+
+## Career goals
+
+I'm looking for data-heavy opportunities where I can conduct advanced data analysis and provide insights on large quantities of qualitative and quantitative data.

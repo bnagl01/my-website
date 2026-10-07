@@ -1,0 +1,25 @@
+---
+title: "CV"
+---
+
+[Download my CV (PDF)](cv.pdf){.btn .btn-primary}
+
+## Summary
+
+Senior Data and Research Lead with seven years of experience delivering data analytics, research insights, and audience engagement metrics to support enterprise Product, Service, and Sales go-to-market strategies. I partner with executive, Product, Technology, Marketing, CX, Digital, Sales, and Legal Compliance teams to scale customer acquisition, retention, technology utilization, and revenue.
+
+## Education
+
+- **M.S. in Applied Business Analytics**, Boston University (expected 05/2027)
+- **B.A. in Mathematics and Philosophy** (double major), Gettysburg College, 2021. Minor in Peace & Justice Studies. Graduated cum laude.
+
+## Experience
+
+- **Data Researcher | Jumpstart Analytics Lead**, Forrester (09/2024 to present). Leads org-wide analytics decks, manages four Research Associates, and builds executive dashboards, GenAI research models, and advisory strategy.
+- **Senior Research Associate / Research Associate**, Forrester (08/2021 to 09/2024). Supported CPG, Marketing, Advertising, and Executive strategy portfolios, ran executive interviews and surveys, and built 20+ enterprise reports annually.
+- **Researcher / Staff Member**, Gettysburg College (09/2019 to 05/2021). Led a Provost-selected, university-wide post-pandemic engagement research project.
+- **Marketing Analyst Intern**, Veracode (05/2019 to 08/2019). Built Salesforce and Power BI reports and dashboards and managed client performance analytics reporting.
+
+## Technical Skills
+
+[Python]{.skill} [Visual Studio Code]{.skill} [GitHub]{.skill} [Salesforce]{.skill} [HubSpot]{.skill} [Tableau]{.skill} [Power BI]{.skill} [Qualtrics]{.skill} [Advanced Excel]{.skill} [Airtable]{.skill} [SharePoint]{.skill} [Claude]{.skill} [ChatGPT]{.skill} [Gemini]{.skill} [CoPilot]{.skill} [Glean AI]{.skill}
